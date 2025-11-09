@@ -33,7 +33,7 @@ zepto-clone/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/zepto-clone.git
+   git clone https://github.com/adil-r120/Zepto-Clone.git
    ```
 
 2. Navigate to the project directory:
@@ -107,6 +107,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
+Your Name - [@your_twitter](https://twitter.com/your_twitter) - adil.r120@example.com
 
-Project Link: [https://github.com/your-username/zepto-clone](https://github.com/your-username/zepto-clone)
+Project Link: [https://github.com/adil-r120/Zepto-Clone](https://github.com/adil-r120/Zepto-Clone)
